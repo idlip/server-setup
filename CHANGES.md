@@ -2,6 +2,11 @@
 
 This file documents changes made to applications self-hosted by FOSS United.
 
+## 24 November 2025
+
+- Updated Listmonk from `5.0.2 -> 5.1.0`
+  https://github.com/knadh/listmonk/releases/tag/v5.1.0
+
 ## 14 October 2024
 
 * Update Discourse and Discourse `docker_manager` to latest versions. The
