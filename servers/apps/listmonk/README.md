@@ -23,7 +23,7 @@ Database: Postgresql
 - Take backup of DB before: `pg_dump -h 127.0.0.1 -U listmonk -w >> /opt/backups/listmonk-$(date +%h-%d-%H-%M-%S).sql`
 - `systemctl stop listmonk`
 - mv listmonk listmonk-old-ver
-- untar the new version binary
+- untar the new version binary (since its in tar.gz: gunzip first and then tar xvzf)
 - `./listmonk --upgrade`
 - `systemctl start listmonk`
 

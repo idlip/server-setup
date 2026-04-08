@@ -2,6 +2,10 @@
 
 This file documents changes made to applications self-hosted by FOSS United.
 
+## 08 April 2026
+- Updated Listmonk: `6.0.0 -> 6.1.0`
+Had some security fixes so:  https://github.com/knadh/listmonk/releases/tag/v6.1.0
+
 ## 09 March 2026
 - Updated Listmonk: `5.1.0 -> 6.0.0`
   https://github.com/knadh/listmonk/releases/tag/v6.0.0
